@@ -1,102 +1,100 @@
 # Olist Marketing Funnel Performance & Conversion Analysis  
 
-## 1️⃣ Project Title & Framing  
-**Scenario:**  
-An analytics engagement was conducted for **Olist**, a Brazil-based e-commerce marketplace platform, to evaluate the effectiveness of its lead generation and sales funnel performance.  
+## 1. Project Overview  
 
-**Project Goal:**  
-To understand which marketing channels deliver the most qualified sellers, how effectively they convert into closed deals, and how long the conversion process takes.  
+**Scenario:**  
+An analytics engagement for **Olist**, a Brazil-based e-commerce marketplace, evaluating its marketing funnel performance and lead quality.  
+
+**Goal:**  
+Identify which marketing channels bring in the most qualified sellers, how effectively they convert into deals, and how long the sales cycle takes.  
 This project simulates a **Marketing Operations Analyst** engagement for Olist’s leadership team.  
 
 ---
 
-## 2️⃣ Executive Summary & Context  
+## 2. Executive Summary  
 
-**Client Context:**  
-Reporting to the Head of Marketing Operations, this analysis evaluated performance of Olist’s lead-to-deal funnel from mid-2017 to mid-2018.  
-The goal was to help executives identify where to reinvest marketing spend and shorten the sales cycle.  
+**Context:**  
+This analysis, prepared for the Head of Marketing Operations, examines Olist’s lead-to-deal funnel from mid-2017 to mid-2018.  
+The objective was to guide investment decisions, improve funnel efficiency, and shorten time to close.  
 
-**Key Project Areas**  
-1. Funnel Overview – Lead generation, conversions, and efficiency by channel  
-2. Deal Quality & Revenue – Seller quality and revenue potential by business segment  
+**Focus Areas**  
+1. Funnel Overview – Lead generation, conversion rate, and efficiency by channel  
+2. Deal Quality & Revenue – Seller quality and declared revenue by business segment  
 3. Sales Cycle Speed – Funnel velocity and time-to-close performance  
 
-**Key Takeaways**  
-- Only **10.4%** of all marketing-qualified leads converted into closed deals.  
-- **Organic and referral channels** produced **2× higher-revenue sellers** compared to paid ads.  
-- Average deal cycle shortened from **~370 days to ~30 days** within a year.  
+**Key Findings**  
+- Only **10.4%** of marketing-qualified leads converted into closed deals.  
+- **Organic and referral channels** generated sellers with roughly **2× higher average revenue** than paid sources.  
+- Average deal cycle shortened from **~370 days to ~30 days**, reflecting major process improvements.  
 
-**Main Recommendations**  
-- Reallocate paid search budget toward high-ROI organic and referral channels.  
-- Prioritize manufacturer-type sellers in high-revenue segments.  
-- Continue process improvements that shortened close times and improved cash-flow velocity.  
+**Recommendations**  
+- Reallocate marketing spend toward high-ROI organic and referral channels.  
+- Focus sales efforts on manufacturer-type sellers in high-revenue verticals.  
+- Continue process optimizations that reduced time to close and improved cash flow.  
 
 ---
 
-## 3️⃣ Deep-Dive Insights  
+## 3. Deep-Dive Insights  
 
-### 📊 Page 1: Funnel Overview  
+### Page 1 – Funnel Overview  
 **Headline:**  
-*Marketing-qualified leads are strong in volume but vary widely in conversion quality by channel.*  
+Marketing-qualified leads are strong in volume but differ widely in conversion quality by channel.  
 
-**Featured Visualization:**  
 ![Funnel Overview](images/funnel%20overview.png)  
 
-**Detailed Insights:**  
-- Generated **7,940 leads**, of which **828 deals** were closed — a **10.43% conversion rate**.  
-- Lead inflow peaked in Q1 2018, while conversions scaled proportionally, showing a stable funnel.  
-- Organic search and referrals outperform paid search and social in conversion rate, signaling higher-intent lead behavior.  
+**Insights:**  
+- Generated **7,940 leads**, closing **828 deals** (10.43% conversion).  
+- Lead inflow peaked in Q1 2018 with consistent scaling in closed deals.  
+- Organic search and referral sources delivered the highest-quality leads.  
 
-**Implication:**  
-Marketing should focus resources on organic and referral channels that yield higher-quality leads rather than maximizing top-of-funnel volume alone.  
+**Interpretation:**  
+Marketing should emphasize high-intent channels rather than focusing solely on lead volume.  
 
 ---
 
-### 💰 Page 2: Deal Quality & Revenue  
+### Page 2 – Deal Quality & Revenue  
 **Headline:**  
-*Organic search delivers the most valuable sellers, while certain segments dominate catalog size and declared revenue.*  
+Organic search delivers the highest-value sellers; key business segments drive larger catalog sizes and stronger revenue potential.  
 
-**Featured Visualization:**  
 ![Deal Quality & Revenue](images/Deal%20Quality%20&%20Revenue.png)  
 
-**Detailed Insights:**  
+**Insights:**  
 - **Organic search sellers** reported an average declared monthly revenue of **≈ $190K**, nearly **4× higher** than social channels.  
-- **Construction Tools & Home Garden** and **Mobile Phone** segments lead in product catalog size, showing strong business potential.  
-- Manufacturer-type sellers show shorter deal cycles and higher revenue consistency than resellers.  
+- **Construction Tools & Home Garden** and **Mobile Phone** segments had the largest product catalogs.  
+- Manufacturer-type sellers demonstrated faster close times and more consistent revenue.  
 
-**Implication:**  
-Prioritize high-value verticals (construction, mobile) and manufacturer partnerships through organic outreach to maximize deal quality and revenue.  
+**Interpretation:**  
+Prioritize high-value verticals and manufacturer partnerships acquired through organic channels to maximize deal quality and lifetime value.  
 
 ---
 
-### ⚡ Page 3: Sales Cycle Speed  
+### Page 3 – Sales Cycle Speed  
 **Headline:**  
-*Sales cycle efficiency improved dramatically, enhancing forecasting accuracy and revenue timing.*  
+Sales cycle efficiency improved sharply, strengthening forecasting accuracy and funnel velocity.  
 
-**Featured Visualization:**  
 ![Sales Cycle Speed](images/Sales%20Cycle%20Speed.png)  
 
-**Detailed Insights:**  
-- Average **days-to-close dropped from ~369 to 33 days**, reflecting major process improvements.  
-- Most deals now close within **50–150 days**, and long-tail outliers have been reduced.  
-- Faster cycles correlate with organic and referral leads, validating their higher qualification level.  
+**Insights:**  
+- Average days-to-close dropped from **~369 to 33 days** over the analysis period.  
+- Most deals now close within **50–150 days**, with fewer long-tail outliers.  
+- Shorter cycles correlate with organic and referral leads, validating their higher qualification.  
 
-**Implication:**  
-Maintain operational improvements by monitoring cycle-time KPIs monthly and rewarding fast-close segments.  
-
----
-
-## 4️⃣ Actionable Recommendations  
-
-| Stakeholder | Recommendation | Rationale / Supporting Metric |
-|--------------|----------------|-------------------------------|
-| **Marketing Team** | Shift 25–30% of paid search budget to organic growth and referral campaigns | Organic search yields **2× higher average revenue** per deal |
-| **Sales Leadership** | Focus on manufacturer leads in high-revenue segments | Manufacturer leads close faster (~48 days) and average **$74K** monthly revenue |
-| **Revenue Operations** | Maintain monthly monitoring of `days_to_close` trend | Funnel velocity improved **~90% year-over-year**, ensuring sustained efficiency |
+**Interpretation:**  
+Monitor cycle-time KPIs monthly and recognize fast-closing segments to sustain operational momentum.  
 
 ---
 
-## 5️⃣ Technical Documentation & Access  
+## 4. Actionable Recommendations  
+
+| Stakeholder | Recommendation | Supporting Metric |
+|--------------|----------------|------------------|
+| **Marketing** | Shift 25–30% of paid search budget to organic and referral channels | Organic search yields ≈ 2× higher average revenue per deal |
+| **Sales** | Target manufacturer leads in high-revenue segments | Manufacturer leads close ≈ 48 days faster and average $74K monthly revenue |
+| **Revenue Ops** | Track `days_to_close` trend monthly | Funnel velocity improved ~90% year over year |
+
+---
+
+## 5. Technical Overview  
 
 **Repository:** [Olist-Marketing-Funnel-Analysis](https://github.com/Kevinm360/Olist-Marketing-Funnel-Analysis)  
 
@@ -105,12 +103,12 @@ Maintain operational improvements by monitoring cycle-time KPIs monthly and rewa
 - `Funnel Overview.pbix` – Power BI project file  
 - `olist_mql_clean.csv`, `olist_deals_merged.csv` – cleaned datasets  
 
-**Tools Used:**  
+**Tools:**  
 Power BI (DAX measures & visualization), Python (pandas cleaning), Excel (data validation)  
 
-**Live Metrics Summary:**  
-- **Total Leads:** 7,940  
-- **Closed Deals:** 828  
-- **Conversion Rate:** 10.43%  
-- **Avg Days to Close:** 48 days  
-- **Avg Declared Revenue:** $74K  
+**Summary Metrics:**  
+- Total Leads: 7,940  
+- Closed Deals: 828  
+- Conversion Rate: 10.43%  
+- Avg Days to Close: 48  
+- Avg Declared Monthly Revenue: $74K  
